@@ -1,5 +1,5 @@
-<h2> नमस्ते (Namaste)🙏🏻, I'm Shobhit Srivastava!</h2>
-<div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
+### Hi there, I'm Shobhit Srivastava👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
