@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on Software Development.
 - 🌱 I’m currently mastering Software Engineering.
-- 👯 I’m looking to collaborate on Software Engineering, Data Science, Machine Learning, Deep Learning stuffs
+- 👯 I’m looking to collaborate on Software Engineering, Data Science stuffs
 - 🤔 I’m looking for help with Open Source Projects.
 - 💬 Ask me about Software development and analytics.
 - 📫 How to reach me: <a href= "https://linkedin.com/in/shobhit-srivastava-451459163/">LinkedIn</a>
 - 😄 Pronouns: Me and Only Me
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 
-<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "80" height= "100"></p>
+<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "80" height= "150"></p>
 
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true"></p>
 <hr>
