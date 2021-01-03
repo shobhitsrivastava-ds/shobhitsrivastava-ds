@@ -11,7 +11,6 @@
 - 💬 Ask me about Software development and analytics.
 - 🥅 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: <a href= "https://linkedin.com/in/shobhit-srivastava-451459163/">LinkedIn</a>
-- 😄 Pronouns: Me and Only Me
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 <br><br>
 <br>
