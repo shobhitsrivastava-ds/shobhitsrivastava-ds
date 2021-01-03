@@ -11,6 +11,8 @@
 - 📫 How to reach me: <a href= "https://linkedin.com/in/shobhit-srivastava-451459163/">LinkedIn</a>
 - 😄 Pronouns: Me and Only Me
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
+<br><br>
+<br>
 
 <p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "80" height= "150"></p>
 
