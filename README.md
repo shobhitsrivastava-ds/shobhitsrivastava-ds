@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img src="https://github-readme-stats.vercel.app/api?username=jinicode&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true">
 
 - See my portfolio: https://shobhitsrivastava-ds.github.io/My_Portfolio/
 - Connect with me on Linkedin: https://linkedin.com/in/shobhit-srivastava-451459163/
