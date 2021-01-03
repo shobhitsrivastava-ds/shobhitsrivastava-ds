@@ -3,8 +3,7 @@
 <p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true">
-
-<img src="https://spectrapackautomation.com/img/contactme.gif">
+<div style="text-align:center"><img src="https://spectrapackautomation.com/img/contactme.gif"></div>
 
 - Portfolio : https://shobhitsrivastava-ds.github.io/My_Portfolio/
 - Linkedin : https://linkedin.com/in/shobhit-srivastava-451459163/
