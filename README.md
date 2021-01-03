@@ -12,7 +12,7 @@
 - 😄 Pronouns: Me and Only Me
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 
-<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "60" height= "60"></p>
+<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "80" height= "100"></p>
 
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true"></p>
 <hr>
