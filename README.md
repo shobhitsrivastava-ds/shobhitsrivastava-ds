@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Software Engineering, Data Science, Machine Learning, Deep Learning stuffs
 - 🤔 I’m looking for help with Software Development, Data Science, Machine Learning, Deep Learning stuffs.
 - 💬 Ask me about Software deleopment and analytics.
-- 📫 How to reach me: 
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
