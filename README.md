@@ -1,5 +1,5 @@
 <h2> नमस्ते (Namaste)🙏🏻, I'm Shobhit Srivastava!</h2>
-<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img src="https://github-readme-stats.vercel.app/api?username=jinicode&show_icons=true">
