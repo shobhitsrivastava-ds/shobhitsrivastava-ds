@@ -4,15 +4,18 @@
 </em></p>
 <img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true">
 <img src="https://spectrapackautomation.com/img/contactme.gif" />
+
+
+- Portfolio : https://shobhitsrivastava-ds.github.io/My_Portfolio/
+- Linkedin : https://linkedin.com/in/shobhit-srivastava-451459163/
+- Medium : https://medium.com/@shobhitsrivastava18th
+- Email : shobhitsrivastava18th@gmail.com
+
 <!--
 <p align="center">
   <img src="https://spectrapackautomation.com/img/contactme.gif" />
 </p>
 -->
-- Portfolio : https://shobhitsrivastava-ds.github.io/My_Portfolio/
-- Linkedin : https://linkedin.com/in/shobhit-srivastava-451459163/
-- Medium : https://medium.com/@shobhitsrivastava18th
-- Email : shobhitsrivastava18th@gmail.com
 
 <!--
 **shobhitsrivastava-ds/shobhitsrivastava-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
